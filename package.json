@@ -1,0 +1,17 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^1.7.4",
+    "nodemon": "^1.17.3"
+  }
+}
